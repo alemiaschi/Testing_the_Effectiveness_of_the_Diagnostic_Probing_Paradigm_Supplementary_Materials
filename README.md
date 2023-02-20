@@ -12,7 +12,6 @@ The folder is divided in two subfolders:
 
 The first row of each .tsv file contains the label of the linguistic features automatically extracted by Profiling-UD, while the second row shows the label of the group to which each feature belongs. 
 
-
 ## Results
 
 As for the ``Dataset`` folder, ``Results`` is divided in the two ``Standard_Subset`` and ``Shortest_Longest_Subsets`` subfolders.
