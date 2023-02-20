@@ -1,3 +1,5 @@
+# Supplementary Materials for the paper "Testing the Effectiveness of the Diagnostic Probing Paradigm on Italian Treebanks"
+
 # Gold and Control datasets + Probing Results 
 
 The two folders contain the gold/control datasets and the results obtained by the probing model trained with BERT's internal representations.
